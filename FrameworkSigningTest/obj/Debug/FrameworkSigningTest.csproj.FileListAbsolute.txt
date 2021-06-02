@@ -1,0 +1,11 @@
+/Users/alanfransham/Projects/Experiments/FrameworkSigningTest/FrameworkSigningTest/bin/Debug/FrameworkSigningTest.exe
+/Users/alanfransham/Projects/Experiments/FrameworkSigningTest/FrameworkSigningTest/bin/Debug/FrameworkSigningTest.pdb
+/Users/alanfransham/Projects/Experiments/FrameworkSigningTest/FrameworkSigningTest/obj/Debug/actool/_PartialAppManifest.items
+/Users/alanfransham/Projects/Experiments/FrameworkSigningTest/FrameworkSigningTest/obj/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/alanfransham/Projects/Experiments/FrameworkSigningTest/FrameworkSigningTest/obj/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/alanfransham/Projects/Experiments/FrameworkSigningTest/FrameworkSigningTest/obj/Debug/coremlc/_PartialAppManifest.items
+/Users/alanfransham/Projects/Experiments/FrameworkSigningTest/FrameworkSigningTest/obj/Debug/coremlc/_BundleResourceWithLogicalName.items
+/Users/alanfransham/Projects/Experiments/FrameworkSigningTest/FrameworkSigningTest/obj/Debug/FrameworkSigningTest.csprojAssemblyReference.cache
+/Users/alanfransham/Projects/Experiments/FrameworkSigningTest/FrameworkSigningTest/obj/Debug/FrameworkSigningTest.csproj.CoreCompileInputs.cache
+/Users/alanfransham/Projects/Experiments/FrameworkSigningTest/FrameworkSigningTest/obj/Debug/FrameworkSigningTest.exe
+/Users/alanfransham/Projects/Experiments/FrameworkSigningTest/FrameworkSigningTest/obj/Debug/FrameworkSigningTest.pdb

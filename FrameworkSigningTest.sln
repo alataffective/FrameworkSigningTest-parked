@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.809.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrameworkSigningTest", "FrameworkSigningTest\FrameworkSigningTest.csproj", "{EB4A65C4-9D81-47AA-AAD1-C128043AC3A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrameworkSigningTest.ThemeKit", "FrameworkSigningTest.ThemeKit\FrameworkSigningTest.ThemeKit.csproj", "{CCFE6A00-58B6-4D32-9665-3D320B1EEACD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB4A65C4-9D81-47AA-AAD1-C128043AC3A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB4A65C4-9D81-47AA-AAD1-C128043AC3A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB4A65C4-9D81-47AA-AAD1-C128043AC3A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB4A65C4-9D81-47AA-AAD1-C128043AC3A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCFE6A00-58B6-4D32-9665-3D320B1EEACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCFE6A00-58B6-4D32-9665-3D320B1EEACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCFE6A00-58B6-4D32-9665-3D320B1EEACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCFE6A00-58B6-4D32-9665-3D320B1EEACD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79812E31-FFA1-4F96-8818-C1CD8707C424}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+# Version: 7.10.0.5 (xcode12.5: ab40b131d)
+/Library/Frameworks/Xamarin.Mac.framework/Versions/7.10.0.5/lib/mmp/mmp.exe \
+	/Library/Frameworks/Xamarin.Mac.framework/Versions/7.10.0.5/bin/../lib/mmp/mmp.exe \
+	'/target-framework:Xamarin.Mac,Version=v2.0,Profile=Mobile' \
+	--http-message-handler=HttpClientHandler \
+	--cache=/Users/alanfransham/Projects/Experiments/FrameworkSigningTest/FrameworkSigningTest/obj/Release/mmp-cache \
+	--root-assembly=/Users/alanfransham/Projects/Experiments/FrameworkSigningTest/FrameworkSigningTest/bin/Release/FrameworkSigningTest.exe \
+	--sdkroot=/Applications/Xcode.app/Contents/Developer \
+	--targetver=10.14 \
+	-q \
+	-q \
+	-q \
+	-q \
+	/output:/Users/alanfransham/Projects/Experiments/FrameworkSigningTest/FrameworkSigningTest/bin/Release/ \
+	/name:FrameworkSigningTest \
+	/arch:x86_64 \
+	/linksdkonly \
+	/reference:/Users/alanfransham/Projects/Experiments/FrameworkSigningTest/FrameworkSigningTest.ThemeKit/bin/Release/FrameworkSigningTest.ThemeKit.dll \
+	/reference:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/mscorlib.dll \
+	/reference:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/System.Core.dll \
+	/reference:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/System.dll \
+	/reference:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/Facades/System.Drawing.Common.dll \
+	/reference:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/Xamarin.Mac.dll \
+	/reference:/Users/alanfransham/Projects/Experiments/FrameworkSigningTest/FrameworkSigningTest.ThemeKit/bin/Release/FrameworkSigningTest.ThemeKit.dll \
+	@/Users/alanfransham/Projects/Experiments/FrameworkSigningTest/FrameworkSigningTest/obj/Release/response-file.rsp \

@@ -1,0 +1,3 @@
+/Users/alanfransham/Projects/Experiments/FrameworkSigningTest/FrameworkSigningTest.ThemeKit/bin/Release/FrameworkSigningTest.ThemeKit.dll
+/Users/alanfransham/Projects/Experiments/FrameworkSigningTest/FrameworkSigningTest.ThemeKit/obj/Release/FrameworkSigningTest.ThemeKit.csproj.CoreCompileInputs.cache
+/Users/alanfransham/Projects/Experiments/FrameworkSigningTest/FrameworkSigningTest.ThemeKit/obj/Release/FrameworkSigningTest.ThemeKit.dll
